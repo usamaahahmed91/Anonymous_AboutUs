@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase=
+"https://usamaahahmed91.github.io/Anonymous_AboutUs/" 
+    href="ElectricShock_webstart.jnlp">
+    <information>
+        <title>Electric Shock</title>
+        <vendor>Group 3C Anonymous</vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <jar href="Electric Shock.jar"
+            main="true" />
+
+    </resources>
+    <application-desc
+         name="Electric Shock"
+         main-class=
+           "gui.MainFrame"
+         width="1209"
+         height="631">
+     </application-desc>
+     <update check="background"/>
+</jnlp>                  
