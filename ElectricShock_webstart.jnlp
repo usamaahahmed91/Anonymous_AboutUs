@@ -8,6 +8,8 @@
     </information>
     <resources>
         <!-- Application Resources -->
+        <j2se version="1.7+"
+              href="http://java.sun.com/products/autodl/j2se"/>
         <jar href="Electric Shock.jar"
             main="true" />
 
